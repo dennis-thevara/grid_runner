@@ -1,0 +1,12 @@
+{
+    "pHit": 0.7,
+    "pExact": 0.8,
+    "pOvershoot": 0.0,
+    "pUndershoot": 0.2,
+    "world":[["R","G","G","R","R"],
+             ["R","R","G","R","R"],
+             ["R","R","G","G","R"],
+             ["R","R","R","R","R"]],
+    "measurements": ["G","G","G","G","G"],
+    "motions":[[0,0],[0,1],[1,0],[1,0],[0,1]]
+}
